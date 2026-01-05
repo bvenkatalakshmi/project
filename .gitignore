@@ -1,0 +1,10 @@
+.qodo
+myenv/*
+venv/*
+results/*
+training_data/*
+uploads/*
+results/*
+venv/*
+
+
